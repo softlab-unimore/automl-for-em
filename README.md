@@ -1,1 +1,1 @@
-# automl-for-em
+# AutoML for Entity Matching
