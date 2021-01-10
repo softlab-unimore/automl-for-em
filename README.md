@@ -1,4 +1,4 @@
 # AutoML for Entity Matching
 
 
-![EMAdapterArchitecture](doc/figures/EMAdapterArchitecture.pdf)
+![EMAdapterArchitecture](doc/figures/EMAdapterArchitecture.jpg)
