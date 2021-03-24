@@ -8,6 +8,7 @@ The proposed approach leverages an **EM Adapter**, to be pipelined with standard
 
 For a detailed description of the architecture please read [our paper](https://openproceedings.org/2021/conf/edbt/p260.pdf). Please cite the paper if you use the code from this repository in your work.
 
+```
 @inproceedings{DBLP:conf/edbt/PaganelliBP0V21,
   author    = {Matteo Paganelli and
                Francesco Del Buono and
@@ -20,6 +21,7 @@ For a detailed description of the architecture please read [our paper](https://o
   publisher = {OpenProceedings.org},
   year      = {2021}
 }
+```
 
 ## License
 [MIT License](LICENSE)
