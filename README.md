@@ -6,7 +6,7 @@ The proposed approach leverages an **EM Adapter**, to be pipelined with standard
 
 ![EMAdapterArchitecture](doc/figures/EMAdapterArchitecture.jpg)
 
-For a detailed description of the architecture please read [our paper](https://openproceedings.org/2021/conf/edbt/p260.pdf). Please cite the paper if you use the code from this repository in your work.
+For a detailed description of the work please read [our paper](https://openproceedings.org/2021/conf/edbt/p260.pdf). Please cite the paper if you use the code from this repository in your work.
 
 ```
 @inproceedings{DBLP:conf/edbt/PaganelliBP0V21,
